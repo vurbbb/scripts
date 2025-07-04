@@ -2,7 +2,7 @@
 
 # This is a basic bash script
 
-echo "Hello, world!"
+echo "Hello, world"
 
 # List files in the current directory
 ls
